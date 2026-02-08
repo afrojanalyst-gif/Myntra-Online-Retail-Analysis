@@ -87,8 +87,8 @@ The analysis was performed using **SQL for data cleaning & KPI calculations** an
 ### 🟦 Page 3: Product Performance
 
 * Bar Chart: Top Products by Quantity
-* Bar Chart: Top Products by Revenue
-* Table: Products with Highest Cancellations
+* Area Chart: Top Products by Country
+* Map Chaet: Product Revenue by country
 
 📸 **Screenshot:**
 
