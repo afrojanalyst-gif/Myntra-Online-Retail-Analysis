@@ -92,9 +92,9 @@ The analysis was performed using **SQL for data cleaning & KPI calculations** an
 
 📸 **Screenshot:**
 
-```
-/Images/Product Performance.PNG
-```
+
+[/Images/Product Performance.PNG](https://github.com/afrojanalyst-gif/Myntra-Online-Retail-Analysis/blob/88e17d2d61742bc176f7248bcb0807f20637bc93/Images/Product%20Performance.PNG)
+
 
 ---
 
