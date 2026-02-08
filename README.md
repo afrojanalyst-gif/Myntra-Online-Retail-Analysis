@@ -1,7 +1,4 @@
-# Myntra-Online-Retail-Analysis
-End-to-end Excel, SQL &amp; Power BI project analyzing online retail sales. Built KPIs for revenue, customers, products, cancellations, and geography, with a 3-page interactive dashboard delivering actionable business insights.
-
-# 📊 Online Retail Sales Analysis (SQL + Power BI)
+# 📊 Myntra Online Retail Sales Analysis (EXCEL + SQL + Power BI)
 
 A complete **end‑to‑end Data Analyst portfolio project** built using real‑world online retail transaction data. This project focuses on **business KPIs, customer behavior, product performance, and geographic insights**, and presents findings through an interactive **3‑page Power BI dashboard**.
 
