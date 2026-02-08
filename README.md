@@ -80,9 +80,7 @@ The analysis was performed using **SQL for data cleaning & KPI calculations** an
 
 📸 **Screenshot:**
 
-```
-/Images/Customer Insights.PNG
-```
+![image](https://github.com/afrojanalyst-gif/Myntra-Online-Retail-Analysis/blob/3537789f8ebc502c8ca41ed4890eeba83989f546/Images/Customer%20Insights.PNG)
 
 ---
 
